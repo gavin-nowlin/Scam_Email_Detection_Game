@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 679694b27bf3ac44696180009e1e3f60
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Display: {instanceID: 0}
+  - RegisterButton: {instanceID: 0}
+  - username: {instanceID: 0}
+  - password: {instanceID: 0}
+  - re_entered: {instanceID: 0}
+  - update_user: {instanceID: 0}
+  - login_username: {instanceID: 0}
+  - login_password: {instanceID: 0}
+  - CH: {fileID: 11400000, guid: c36e8e5eb12cb9046b4fd4825ea95a3a, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

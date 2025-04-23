@@ -1,0 +1,262 @@
+[
+    {
+        "From": "gmailsupport11234@gmail.com",
+        "Subject": "Account Verification Required",
+        "Body": "We have found suspicious activity on your Gmail account. As a result, your account requires immediate verification to prevent permanent suspension.\n\nYou have less than 24 hours to verify your account. If you fail to do so, your account will be temporarily suspended, and you may lose access to your emails and contacts.\n\nTo verify your account and continue using it without interruption, please click the link below and follow the verification steps.\n\n<u><color=#0000EE>emailcheck.info/verify</color></u>\n\nThis is an automated message. Please do not reply.",
+        "Day": "Monday",
+        "IsScam": true,
+        "Categories": [
+            "Sender",
+            "Urgency",
+            "Link"
+        ]
+    },
+    {
+        "From": "prince.emmanuel@trustedmailer.com",
+        "Subject": "Confidential Request Regarding Family Assets",
+        "Body": "I trust this message reaches you well. My name is Prince Uche Emmanuel, and I am writing to you with a confidential request, given your reputable background.\n\nDue to unforeseen circumstances, my family’s assets, amounting to $12.5 million USD, are temporarily frozen by financial authorities. In order to facilitate the release of these funds, a processing fee of $4,500 USD must be cleared. Should you be willing to assist, I am prepared to offer you $1,250,000 USD as a token of appreciation for your invaluable support.\n\nIf you are able to help or require further details, kindly reach out to me directly at prince.emmanuel@trustedmailer.com at your earliest convenience.\n\nThank you for your consideration and understanding.",
+        "Day": "Monday",
+        "IsScam": true,
+        "Categories": [
+            "Sender"
+        ]
+    },
+    {
+        "From": "support@shippingtracknow.com",
+        "Subject": "Your Package Has Arrived",
+        "Body": "We are notifying you that your recent package has arrived at our facility. Please click the link below to view the details of your shipment and provide necessary delivery instructions. You will also be able to access the shipping receipt and tracking information.\n\n<u><color=#0000EE>globalshippingtracking.com/scam</color></u>\n\nThank you for choosing Global Delivery Solutions.",
+        "Day": "Monday",
+        "IsScam": true,
+        "Categories": [
+            "Sender",
+            "Link"
+        ]
+    },
+    {
+        "From": "promotions@annazon.com",
+        "Subject": "You’ve Won a $500 Amazon Gift Card!",
+        "Body": "You’ve been randomly selected in our giveaway and won a $500 Amazon gift card! To claim it, please click the link below and complete the survey. Only those who complete the survey will be able to claim their prize!\n\n<u><color=#0000EE>gcgaw.org/site/giveaway-claim</color></u>\n\nThank you,\nAmazon Promotions Team",
+        "Day": "Monday",
+        "IsScam": true,
+        "Categories": [
+            "Sender",
+            "Link"
+        ]
+    },
+    {
+        "From": "appstore@insideapple.apple.com",
+        "Subject": "Payment Method Required for App Store",
+        "Body": "To continue shopping on the App Store, please update your payment method. Click the link below to verify your credentials.\n\n<u><color=#0000EE>https://support.apple.com/apple-account</color></u>\n\nBest regards,\nApple Support Team",
+        "Date": "Monday",
+        "IsScam": false,
+        "Categories": []
+    },
+    {
+        "From": "billing@techsupplies.com",
+        "Subject": "Invoice Payment Required",
+        "Body": "We have not received payment for your recent purchase. To avoid late fees, please pay your invoice of $1,200 USD immediately.\n<u><color=#0000EE>https://www.paypal.com/paypalme/billingtech</color></u>\nFailure to settle this within 24 hours will result in further penalties.\n\nThank you,\n\nTech Supplies Billing Team",
+        "Day": "Tuesday",
+        "IsScam": true,
+        "Categories": [
+            "Sender",
+            "Urgency",
+            "Link"
+        ]
+    },
+    {
+        "From": "taxservices@irs.gov",
+        "Subject": "You Are Eligible for a Tax Refund",
+        "Body": "You are eligible for a tax refund of $5,000. To process this refund, please verify your identity by providing your Social Security Number and bank details.\n\n<u><color=#0000EE>https://www.irs.gov/your-account</color></u>",
+        "Day": "Tuesday",
+        "IsScam": false,
+        "Categories": []
+    },
+    {
+        "From": "trevormackpgr@outlook.com",
+        "Subject": "Final Notice: Unpaid Toll Balance",
+        "Body": "This is your final notice regarding the unpaid toll balance on your account. You must settle the balance within the next 12 hours to avoid severe penalties.\n\nUnpaid Balance: $6.69\n\nFailure to pay within this time frame will result in the following:\n\n1.Immediate addition of late payment fees to your balance\n2.Suspension of your vehicle registration by the Department of Motor Vehicles (DMV)\n3.Collection actions, including a negative report to your credit file\n\nPay Now:\n\n<u><color=#0000EE>http://ppaturnppike.com-htl.cc/us</color></u>",
+        "Day": "Tuesday",
+        "IsScam": true,
+        "Categories": [
+            "Sender",
+            "Urgency",
+            "Link"
+        ]
+    },
+    {
+        "From": "citibank@google.com",
+        "Subject": "Citibank Account Suspended",
+        "Body": "For security reasons, we have temporarily suspended your Citibank account due to suspicious activity. To restore access and secure your account, please verify your information by clicking the link below.\n\n<u><color=#0000EE>RESTORE ACCOUNT ACCESS</color></u>\n\nFailure to verify your account will result in permanent suspension.\n\nSincerely,\nCitibank Support",
+        "Day": "Tuesday",
+        "IsScam": true,
+        "Categories": [
+            "Sender",
+            "Urgency"
+        ]
+    },
+    {
+        "From": "supportpaypal@accounts-help.com",
+        "Subject": "Verify Your PayPal Account",
+        "Body": "We have detected unusual activity on your PayPal account. To prevent your account from being permanently restricted, we require you to verify your identity by following the link below. Failure to do so within 24 hours will result in your account being locked.\n\n<u><color=#0000EE>Verify My PayPal Account</color></u>\n\nThank you for your cooperation.\n\nBest regards,\nPayPal Account Support Team",
+        "Day": "Tuesday",
+        "IsScam": true,
+        "Categories": [
+            "Sender",
+            "Urgency"
+        ]
+    },
+    {
+        "From": "noreply@opple.com",
+        "Subject": "Immediate Action Required for Your Apple Account",
+        "Body": "We have encountered an issue with your Apple account that requires immediate action. To ensure uninterrupted access to your Apple services, we need you to verify your payment method. Click the link below to securely verify your account.\n\n<u><color=#0000EE>Verify Now</color></u>\n\nThank you for your prompt attention to this matter.\n\nBest regards,\nApple Support",
+        "Day": "Wednesday",
+        "IsScam": true,
+        "Categories": [
+            "Sender",
+            "Urgency"
+        ]
+    },
+    {
+        "From": "support@amazon.com",
+        "Subject": "Amazon Payment Issue Detected",
+        "Body": "We’ve noticed that your recent Amazon transaction did not process correctly. To continue enjoying our services without interruption, please update your payment details by following the link below.\n\n<u><color=#0000EE>amazon.com-az.cc</color></u>\n\nThank you for being a valued customer.\n\nAmazon Customer Support",
+        "Day": "Wednesday",
+        "IsScam": true,
+        "Categories": [
+            "Grammar",
+            "Sender",
+            "Link"
+        ]
+    },
+    {
+        "From": "info@paypalbanking.com",
+        "Subject": "Verify Your Account Information",
+        "Body": "As part of our routine security check, we request that you verify your account details to ensure that your online banking experience remains secure. Please click the link below to complete the verification process.\n\n<u><color=#0000EE>Verify Account</color></u>\n\nBest regards,\nWells Fargo Security Team",
+        "Day": "Wednesday",
+        "IsScam": true,
+        "Categories": [
+            "Sender"
+        ]
+    },
+    {
+        "From": "linkedin102@supportcustomer.com",
+        "Subject": "Update Your LinkedIn Profile",
+        "Body": "We’ve received an inquiry from a recruiter about your LinkedIn profile. To ensure that your profile is up to date and accurately reflects your skills, please review your profile by clicking the link below.\n\n<u><color=#0000EE>Update Profile</color></u>\n\nThank you,\nLinkedIn Team",
+        "Day": "Wednesday",
+        "IsScam": true,
+        "Categories": [
+            "Sender"
+        ]
+    },
+    {
+        "From": "security@google.com",
+        "Subject": "Suspicious Activity on Your Google Account",
+        "Body": "We’ve recently noticed suspicious activity on your Google account. To protect your data, we’ve taken additional steps to secure your account. If you believe this activity was unauthorized, please verify your identity using the link below.\n\n<u><color=#0000EE>https://myaccount.google.com/</color></u>\n\nThank you,\nGoogle Account Security Team",
+        "Day": "Wednesday",
+        "IsScam": false,
+        "Categories": []
+    },
+    {
+        "From": "helpdesk@dropdox.com",
+        "Subject": "File Shared with You via Dropbox",
+        "Body": "A file has been shared with you via Dropbox. You can view, comment, or download the file by clicking the link below.\n\n<u><color=#0000EE>[Access File]</color></u>\n\nIf you believe this file was shared by mistake, you can disregard this message. Otherwise, feel free to view the file at your convenience.\n\nBest regards,\nDropbox Team",
+        "Day": "Thursday",
+        "IsScam": true,
+        "Categories": [
+            "Sender"
+        ]
+    },
+    {
+        "From": "info@support.paypal.cc",
+        "Subject": "Activate New PayPal Security Features",
+        "Body": "We’ve recently updated our security features to protect your PayPal account. To activate the latest security measures, please confirm your identity by logging in through the link below.\n\n<u><color=#0000EE>Activate Security Features</color></u>\n\nThank you for your cooperation.\nPayPal Security Team",
+        "Day": "Thursday",
+        "IsScam": true,
+        "Categories": [
+            "Sender"
+        ]
+    },
+    {
+        "From": "billing@microsoftservices.com",
+        "Subject": "Microsoft 365 Subscription Renewal Notice",
+        "Body": "This is confirming that your Microsoft 365 subscription will automatically renew. To review or change your subscription plan, plese click the link below.\n\n<u><color=#0000EE>[Review Subscription]</color></u>\n\nIf you wish to cancel, please do before the renewal date to avoid any cash withdrawl.\n\nBest regards,\nMicrosoft Billing Support",
+        "Day": "Thursday",
+        "IsScam": true,
+        "Categories": [
+            "Grammar",
+            "Sender",
+            "Urgency"
+        ]
+    },
+    {
+        "From": "contact@booking12.com",
+        "Subject": "Booking.com Reservation Confirmation",
+        "Body": "Thank you for choosing to book with Booking.com. We’re happy to confirm your reservation. To complete your booking or make any changes, click the link below.\n\n<u><color=#0000EE>[Confirm Reservation]</color></u>\n\nThank you for using Booking.com!\nCustomer Support Team",
+        "Day": "Thursday",
+        "IsScam": true,
+        "Categories": [
+            "Sender"
+        ]
+    },
+    {
+        "From": "service@spotify.com",
+        "Subject": "Update Spotify Payment Method",
+        "Body": "Your Spotify Premium account payment method is outdated. To avoid disruption in service, please update your payment details using the secure link below.\n\n<u><color=#0000EE>[Update Payment Method]</color></u>\n\nThank you for being a Spotify Premium member.\n\nBest regards,\nSpotify Support Team",
+        "Day": "Thursday",
+        "IsScam": false,
+        "Categories": []
+    },
+    {
+        "From": "info@paypal-helpdesk.com",
+        "Subject": "Unusual Activity Detected on Your PayPal Account",
+        "Body": "We noticed some unusual activity on your PayPal account. To ensure that your account remains secure, we need you to verify your identity. Please follow the link below to confirm your information and avoid any interruption in services.\n\n<u><color=#0000EE>[Verify Account]</color></u>\n\nIf you do not complete this process within 48 hours, your account may be temporarily suspended.\n\nThank you for your attention.\nPayPal Help Desk",
+        "Day": "Friday",
+        "IsScam": true,
+        "Categories": [
+            "Sender",
+            "Urgency"
+        ]
+    },
+    {
+        "From": "noreply@support-annazon.com",
+        "Subject": "Action Needed: Verify Your Amazon Account",
+        "Body": "We’ve recently detected some activity that we were unable to confirm on your Amazon account. To prevent your account from being locked, please confirm your information by clicking the link below:\n\n<u><color=#0000EE>[Confirm Now]</color></u>\n\nFailure to verify your account may result in your account being temporarily suspended.\n\nThank you for using Amazon.\nAmazon Account Security Team",
+        "Day": "Friday",
+        "IsScam": true,
+        "Categories": [
+            "Sender",
+            "Urgency"
+        ]
+    },
+    {
+        "From": "hr@techsolutions-careers.com",
+        "Subject": "Next Steps for Your Application - Senior Software Developer",
+        "Body": "We’re excited to inform you that after reviewing your resume, we’d like to move forward with your application for the position of Senior Software Developer. To continue, please complete your application by following the link below:\n\n<u><color=#0000EE>[Complete Your Application]</color></u>\n\nThank you for considering this opportunity.\nTech Solutions Careers Team",
+        "Day": "Friday",
+        "IsScam": false,
+        "Categories": []
+    },
+    {
+        "From": "security@t-sytel.net",
+        "Subject": "Account Locked Due to Suspicious Activity",
+        "Body": "We have locked your account due to a suspicious login attempt. To regain access, please click the link below and verify your identity.\n\n<u><color=#0000EE>[Verify Your Account]</color></u>\n\nIf you do not respond within 24 hours, your account will be permanently suspended.\n\nBest regards,\nT-Sytel Security Team",
+        "Day": "Friday",
+        "IsScam": true,
+        "Categories": [
+            "Sender",
+            "Urgency"
+        ]
+    },
+    {
+        "From": "support@apple-account.net",
+        "Subject": "Apple ID Verification Required",
+        "Body": "We’ve detected an issue with your Apple ID. Please click the link below to verify your account details and secure your information.\n\n<u><color=#0000EE>[Verify Apple ID]</color></u>\n\nFailure to verify your details may result in temporary restrictions on your account.\n\nThank you for your attention,\nApple ID Support",
+        "Day": "Friday",
+        "IsScam": true,
+        "Categories": [
+            "Sender",
+            "Urgency"
+        ]
+    }
+  ]
+  

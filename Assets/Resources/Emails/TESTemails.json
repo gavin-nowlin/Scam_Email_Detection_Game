@@ -1,0 +1,59 @@
+[
+    {
+        "From": "gmailsupport11234@gmail.com",
+        "Subject": "Account Verification Required",
+        "Body": "We have found suspicious activity on your Gmail account. As a result, your account requires immediate verification to prevent permanent suspension.\n\nYou have less than 24 hours to verify your account. If you fail to do so, your account will be temporarily suspended, and you may lose access to your emails and contacts.\n\nTo verify your account and continue using it without interruption, please click the link below and follow the verification steps.\n\n<u><color=#0000EE>emailcheck.info/verify</color></u>\n\nThis is an automated message. Please do not reply.",
+        "Day": "Monday",
+        "IsScam": true,
+        "Categories": [
+            "Sender",
+            "Urgency",
+            "Link"
+        ]
+    },
+    {
+        "From": "billing@techsupplies.com",
+        "Subject": "Invoice Payment Required",
+        "Body": "We have not received payment for your recent purchase. To avoid late fees, please pay your invoice of $1,200 USD immediately.\n<u><color=#0000EE>https://www.paypal.com/paypalme/billingtech</color></u>\nFailure to settle this within 24 hours will result in further penalties.\n\nThank you,\n\nTech Supplies Billing Team",
+        "Day": "Tuesday",
+        "IsScam": true,
+        "Categories": [
+            "Sender",
+            "Urgency",
+            "Link"
+        ]
+    },
+    {
+        "From": "noreply@opple.com",
+        "Subject": "Immediate Action Required for Your Apple Account",
+        "Body": "We have encountered an issue with your Apple account that requires immediate action. To ensure uninterrupted access to your Apple services, we need you to verify your payment method. Click the link below to securely verify your account.\n\n<u><color=#0000EE>Verify Now</color></u>\n\nThank you for your prompt attention to this matter.\n\nBest regards,\nApple Support",
+        "Day": "Wednesday",
+        "IsScam": true,
+        "Categories": [
+            "Sender",
+            "Urgency"
+        ]
+    },
+    {
+        "From": "helpdesk@dropdox.com",
+        "Subject": "File Shared with You via Dropbox",
+        "Body": "A file has been shared with you via Dropbox. You can view, comment, or download the file by clicking the link below.\n\n<u><color=#0000EE>[Access File]</color></u>\n\nIf you believe this file was shared by mistake, you can disregard this message. Otherwise, feel free to view the file at your convenience.\n\nBest regards,\nDropbox Team",
+        "Day": "Thursday",
+        "IsScam": true,
+        "Categories": [
+            "Sender"
+        ]
+    },
+    {
+        "From": "info@paypal-helpdesk.com",
+        "Subject": "Unusual Activity Detected on Your PayPal Account",
+        "Body": "We noticed some unusual activity on your PayPal account. To ensure that your account remains secure, we need you to verify your identity. Please follow the link below to confirm your information and avoid any interruption in services.\n\n<u><color=#0000EE>[Verify Account]</color></u>\n\nIf you do not complete this process within 48 hours, your account may be temporarily suspended.\n\nThank you for your attention.\nPayPal Help Desk",
+        "Day": "Friday",
+        "IsScam": true,
+        "Categories": [
+            "Sender",
+            "Urgency"
+        ]
+    }
+  ]
+  
